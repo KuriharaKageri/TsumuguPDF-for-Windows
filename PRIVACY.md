@@ -1,6 +1,6 @@
 # つむぐPDF（Windows版）プライバシーポリシー
 
-最終更新：2026年10月11日　作者：KAGERI KURIHARA
+最終更新：2026年10月10日　作者：KAGERI KURIHARA
 
 ## 集める情報
 
